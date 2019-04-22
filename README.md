@@ -62,7 +62,7 @@ console.log([4, 7, 5,  8, 10].find(isOdd)); // 7
 
 `Array.prototype.find()` takes in the element we'd like to find, the index at
 which we'd like to start, and the array, and returns the first element in the
-array satisfies the condition specifies the condition specified by the function. 
+array that satisfies the condition specified by the function. 
 
 ## Conclusion
 
